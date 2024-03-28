@@ -15,7 +15,7 @@ Explore the galaxies of my current projects:
    - Technologies: List the technologies, languages, and frameworks used.
    - [Link to Project 1]
 
-2. ** 😈 Netflix**
+2. **😈 Netflix**
    - Description: Briefly describe the purpose and goals of the project.
    - Technologies: List the technologies, languages, and frameworks used.
    - [Link to Project 2]
